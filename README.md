@@ -87,7 +87,7 @@ Ensure you have Node.js (v18 or later) and npm installed on your machine.
 
 1.  **Clone the Repository**
     ```sh
-    git clone https://github.com/YOUR_GITHUB_USERNAME/dsa-graph-visualiser.git
+    git clone https://github.com/Anjali-9506/dsa-graph-visualiser.git
     ```
 2.  **Navigate to the Project Directory**
     ```sh
@@ -108,9 +108,9 @@ The application will now be running on a local port (usually `http://localhost:5
 
 ## 👤 Author
 
-**Saumy Tiwari (TOXOTIS)**
+**Anjali Yadav**
 
-*   **GitHub:** [Saumy-TOXOTIS](https://github.com/Saumy-TOXOTIS)
+*   **GitHub:** [Anjali-9506](https://github.com/Anjali-9506)
 
 <br />
 
@@ -119,3 +119,6 @@ The application will now be running on a local port (usually `http://localhost:5
     Made with ❤️ and a lot of algorithms.
   </p>
 </div>
+
+
+<!--b068aed7425c5b78807bf833597b755986790616ef4d844f43b4611dcc47f8fa-->
