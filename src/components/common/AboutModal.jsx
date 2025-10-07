@@ -86,7 +86,7 @@ const AboutModal = ({ isOpen, onClose }) => {
                                         <UserIcon className="h-6 w-6 text-white" />
                                     </div>
                                     <div>
-                                        <h3 className="font-bold text-lg text-gray-800 dark:text-gray-100 mb-1">Created by Saumy Tiwari</h3>
+                                        <h3 className="font-bold text-lg text-gray-800 dark:text-gray-100 mb-1">Created by Anjali Yadav</h3>
                                         <p className="text-gray-600 dark:text-gray-300">
                                             A passionate developer exploring the intersections of code, design, and data structures. This project is a testament to the beauty and complexity of graph theory, brought to life with an interactive and intuitive interface.
                                         </p>
